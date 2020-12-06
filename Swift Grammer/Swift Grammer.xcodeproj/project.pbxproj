@@ -1,0 +1,77 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		00A5E52E257C8CF100EE1F0B /* 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		00A5E52F257C916A00EE1F0B /* 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		00A5E530257CAEC700EE1F0B /* 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		00A5E527257C8CD500EE1F0B = {
+			isa = PBXGroup;
+			children = (
+				00A5E530257CAEC700EE1F0B /* 3.playground */,
+				00A5E52F257C916A00EE1F0B /* 2.playground */,
+				00A5E52E257C8CF100EE1F0B /* 1.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		00A5E528257C8CD500EE1F0B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1220;
+			};
+			buildConfigurationList = 00A5E52B257C8CD500EE1F0B /* Build configuration list for PBXProject "Swift Grammer" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 00A5E527257C8CD500EE1F0B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		00A5E52C257C8CD500EE1F0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		00A5E52D257C8CD500EE1F0B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		00A5E52B257C8CD500EE1F0B /* Build configuration list for PBXProject "Swift Grammer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00A5E52C257C8CD500EE1F0B /* Debug */,
+				00A5E52D257C8CD500EE1F0B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 00A5E528257C8CD500EE1F0B /* Project object */;
+}
