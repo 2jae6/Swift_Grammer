@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		000A3BA525825A7A002BF707 /* 11.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 11.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		000A3BA625826093002BF707 /* 12.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 12.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		007132F9257E4B68002A97D0 /* 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		007132FA257E547C002A97D0 /* 5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00A5E52E257C8CF100EE1F0B /* 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -23,6 +25,8 @@
 		00A5E527257C8CD500EE1F0B = {
 			isa = PBXGroup;
 			children = (
+				000A3BA625826093002BF707 /* 12.playground */,
+				000A3BA525825A7A002BF707 /* 11.playground */,
 				00B3CBE42581171B00AA2107 /* 10.playground */,
 				00B3CBE3258113C000AA2107 /* 9.playground */,
 				00B3CBE22581129800AA2107 /* 8.playground */,
