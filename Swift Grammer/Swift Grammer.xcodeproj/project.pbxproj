@@ -18,16 +18,24 @@
 		00B3CBE22581129800AA2107 /* 8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 8.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00B3CBE3258113C000AA2107 /* 9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 9.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00B3CBE42581171B00AA2107 /* 10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 10.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		00BC6BEE2587A4280030E192 /* 18.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 18.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		00BC6BEF2587A74D0030E192 /* 19.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 19.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00D5FF4E258394C20060894F /* 13.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 13.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00D5FF4F2583980D0060894F /* 14.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 14.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00DE45F62584F88C0099D0B6 /* 15.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 15.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00E79F7E257E89A00058E3A9 /* 6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		00E8AD432585B77F008E6561 /* 16.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 16.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		00E8AD442585CF2A008E6561 /* 17.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 17.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		00A5E527257C8CD500EE1F0B = {
 			isa = PBXGroup;
 			children = (
+				00BC6BEF2587A74D0030E192 /* 19.playground */,
+				00BC6BEE2587A4280030E192 /* 18.playground */,
+				00E8AD442585CF2A008E6561 /* 17.playground */,
+				00E8AD432585B77F008E6561 /* 16.playground */,
 				00DE45F62584F88C0099D0B6 /* 15.playground */,
 				00D5FF4F2583980D0060894F /* 14.playground */,
 				00D5FF4E258394C20060894F /* 13.playground */,
