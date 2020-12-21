@@ -15,6 +15,8 @@
 		0096900F258DCF9400AAAF4E /* 21.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 21.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00969010258DD36600AAAF4E /* 22.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 22.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00969011258DE9BD00AAAF4E /* 23.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 23.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0096E3F4258F1485002A17FF /* 24.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 24.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		00A55D1C2590C410008BF480 /* 25.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 25.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00A5E52E257C8CF100EE1F0B /* 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00A5E52F257C916A00EE1F0B /* 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00A5E530257CAEC700EE1F0B /* 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -36,6 +38,8 @@
 		00A5E527257C8CD500EE1F0B = {
 			isa = PBXGroup;
 			children = (
+				00A55D1C2590C410008BF480 /* 25.playground */,
+				0096E3F4258F1485002A17FF /* 24.playground */,
 				00969011258DE9BD00AAAF4E /* 23.playground */,
 				00969010258DD36600AAAF4E /* 22.playground */,
 				0096900F258DCF9400AAAF4E /* 21.playground */,
