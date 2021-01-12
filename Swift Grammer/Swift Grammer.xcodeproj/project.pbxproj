@@ -14,6 +14,8 @@
 		002982F625936320000F4847 /* 26.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 26.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		003FB21525972B4C00F9843D /* 27.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 27.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0045014B25A1705C00486C56 /* 36.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 36.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		006DED5625ADF726005A3D11 /* 41.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 41.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		006DED5725ADF8E8005A3D11 /* 42.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 42.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		006FBF3B25AAF58500B801F6 /* 39.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 39.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		006FBF3C25AAFA6300B801F6 /* 40.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 40.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		007132F9257E4B68002A97D0 /* 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -53,6 +55,8 @@
 		00A5E527257C8CD500EE1F0B = {
 			isa = PBXGroup;
 			children = (
+				006DED5725ADF8E8005A3D11 /* 42.playground */,
+				006DED5625ADF726005A3D11 /* 41.playground */,
 				006FBF3C25AAFA6300B801F6 /* 40.playground */,
 				006FBF3B25AAF58500B801F6 /* 39.playground */,
 				00A969F725A5EA8F0006DD82 /* 38.playground */,
