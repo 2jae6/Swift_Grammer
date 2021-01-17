@@ -6,3 +6,4 @@ let otherFriends = ["제임스", "존슨", "존시나"]
 
 let totalFriends = myFriends + otherFriends
 print(totalFriends)
+
