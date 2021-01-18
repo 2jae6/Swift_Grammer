@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		000A3BA525825A7A002BF707 /* 11.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 11.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		000A3BA625826093002BF707 /* 12.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 12.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0013834F25B5C92700653FA2 /* 47.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 47.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		00183E622588EFCC00DD05F9 /* 20.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 20.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		001FF8A2259F232700158146 /* 32.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 32.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		002982F625936320000F4847 /* 26.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 26.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -59,6 +60,7 @@
 		00A5E527257C8CD500EE1F0B = {
 			isa = PBXGroup;
 			children = (
+				0013834F25B5C92700653FA2 /* 47.playground */,
 				009C04E625B42B3500F50055 /* 46.playground */,
 				00EB0E6025B2B11D00705B07 /* 45.playground */,
 				00EB0E5F25B2B00C00705B07 /* 44.playground */,
